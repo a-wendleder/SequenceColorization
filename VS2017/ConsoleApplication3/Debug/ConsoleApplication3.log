@@ -1,2 +1,0 @@
-﻿  Quelle.cpp
-opencv_world320d.lib(opencv_world320d.dll) : fatal error LNK1112: Modul-Computertyp "x64" steht in Konflikt mit dem Zielcomputertyp "X86".
